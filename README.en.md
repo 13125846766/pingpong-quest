@@ -4,6 +4,8 @@
 
 Move one racket, meet players across 18 cities, and learn their signature shots. Pull opponents wide with placement and short returns, then smash the high ball into the opening.
 
+Play it at: https://pingpong-quest.ych1231231230th.chatgpt.site/
+
 A playable browser game built with TypeScript, Canvas 2D and Vite. No account, ads, payments or Douyin integration.
 
 ![Game screen](docs/evidence/en-home.png)
