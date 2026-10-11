@@ -1,0 +1,317 @@
+{
+  "errors": [],
+  "before": {
+    "x": 195,
+    "y": 560
+  },
+  "down": {
+    "x": 195,
+    "y": 560
+  },
+  "fore": {
+    "x": 274.88453333806905,
+    "y": 290.40900149425676
+  },
+  "back": {
+    "x": 125.14111823099302,
+    "y": 729.1502092486018
+  },
+  "pauseFrozen": true,
+  "hits": 6,
+  "maxContacts": 4,
+  "audio": {
+    "contexts": [
+      {
+        "state": "running",
+        "currentTime": 13.552,
+        "musicLevel": 0.1013866513967514
+      }
+    ],
+    "decoded": [
+      {
+        "duration": 0.17,
+        "peak": 0.8299250602722168,
+        "sampleRate": 48000
+      },
+      {
+        "duration": 0.17,
+        "peak": 0.8047938346862793,
+        "sampleRate": 48000
+      },
+      {
+        "duration": 0.17,
+        "peak": 0.7945164442062378,
+        "sampleRate": 48000
+      },
+      {
+        "duration": 0.23,
+        "peak": 0.826042890548706,
+        "sampleRate": 48000
+      }
+    ],
+    "loops": [
+      {
+        "loop": true,
+        "duration": 49.23075,
+        "channels": 2,
+        "rate": 1,
+        "at": 0
+      }
+    ],
+    "recordedHits": [
+      {
+        "loop": false,
+        "duration": 0.23,
+        "channels": 1,
+        "rate": 0.9972749948501587,
+        "at": 1.6106666666666667
+      },
+      {
+        "loop": false,
+        "duration": 0.23,
+        "channels": 1,
+        "rate": 1.0010000467300415,
+        "at": 2.392
+      },
+      {
+        "loop": false,
+        "duration": 0.23,
+        "channels": 1,
+        "rate": 1.0077500343322754,
+        "at": 3.0613333333333332
+      },
+      {
+        "loop": false,
+        "duration": 0.23,
+        "channels": 1,
+        "rate": 1.0190000534057617,
+        "at": 4.08
+      },
+      {
+        "loop": false,
+        "duration": 0.23,
+        "channels": 1,
+        "rate": 1.0202749967575073,
+        "at": 6.490666666666667
+      },
+      {
+        "loop": false,
+        "duration": 0.23,
+        "channels": 1,
+        "rate": 0.9850000143051147,
+        "at": 7.261333333333333
+      },
+      {
+        "loop": false,
+        "duration": 0.23,
+        "channels": 1,
+        "rate": 0.9937499761581421,
+        "at": 7.941333333333334
+      },
+      {
+        "loop": false,
+        "duration": 0.23,
+        "channels": 1,
+        "rate": 1.0010000467300415,
+        "at": 8.952
+      },
+      {
+        "loop": false,
+        "duration": 0.23,
+        "channels": 1,
+        "rate": 1.0010000467300415,
+        "at": 11.010666666666667
+      },
+      {
+        "loop": false,
+        "duration": 0.23,
+        "channels": 1,
+        "rate": 1.0077500343322754,
+        "at": 11.701333333333332
+      },
+      {
+        "loop": false,
+        "duration": 0.23,
+        "channels": 1,
+        "rate": 1.0190000534057617,
+        "at": 12.72
+      }
+    ],
+    "recordedBounces": [
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 0.9831315875053406,
+        "at": 0.8106666666666666
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 1.005835771560669,
+        "at": 1.2506666666666666
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 1.026978850364685,
+        "at": 2.392
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 0.9818910360336304,
+        "at": 2.832
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 1.0132585763931274,
+        "at": 4.08
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 0.9978910684585571,
+        "at": 4.52
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 0.9756292104721069,
+        "at": 4.832
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 1.0081316232681274,
+        "at": 5.690666666666667
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 0.9918358325958252,
+        "at": 6.136
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 1.0089788436889648,
+        "at": 7.261333333333333
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 1.0068910121917725,
+        "at": 7.701333333333333
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 1.036258578300476,
+        "at": 8.952
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 0.9818910360336304,
+        "at": 9.392
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 1.000629186630249,
+        "at": 9.712
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 0.9941316246986389,
+        "at": 10.56
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 1.0148358345031738,
+        "at": 11.010666666666667
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 0.9818910360336304,
+        "at": 11.450666666666667
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 1.0132585763931274,
+        "at": 12.72
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 0.9978910684585571,
+        "at": 13.16
+      },
+      {
+        "loop": false,
+        "duration": 0.17,
+        "channels": 1,
+        "rate": 0.9756292104721069,
+        "at": 13.48
+      }
+    ]
+  },
+  "score": [
+    3,
+    0
+  ],
+  "settlementReloadNoDuplicate": 1,
+  "viewports": [
+    {
+      "width": 360,
+      "height": 800,
+      "transform": {
+        "x": 0,
+        "y": 2.461538461538453,
+        "scale": 0.9230769230769231
+      }
+    },
+    {
+      "width": 430,
+      "height": 932,
+      "transform": {
+        "x": 3.364928909952596,
+        "y": 0,
+        "scale": 1.085308056872038
+      }
+    },
+    {
+      "width": 844,
+      "height": 390,
+      "transform": {
+        "x": 335.5900473933649,
+        "y": 0,
+        "scale": 0.4431279620853081
+      }
+    }
+  ]
+}

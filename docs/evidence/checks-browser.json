@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "passedTests": 225,
+  "testFiles": 9,
+  "dependencyInstallPackages": 45,
+  "platformFilesAbsent": true,
+  "platformReferencesInSource": [],
+  "privatePathsInSource": false,
+  "webBuild": true,
+  "offlineBuild": true,
+  "remoteGitHubPublished": false,
+  "realPhonesTested": false
+}

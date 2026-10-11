@@ -1,0 +1,543 @@
+{
+  "errors": [],
+  "languageDefault": true,
+  "savedLanguageRestored": true,
+  "languageSwitchPreservesMatch": true,
+  "resultReloadNoDuplicate": true,
+  "checks": [
+    {
+      "lang": "en",
+      "name": "home",
+      "texts": 19
+    },
+    {
+      "lang": "en",
+      "name": "map",
+      "texts": 23
+    },
+    {
+      "lang": "en",
+      "name": "stages",
+      "texts": 36
+    },
+    {
+      "lang": "en",
+      "name": "pre",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "equipment",
+      "texts": 30
+    },
+    {
+      "lang": "en",
+      "name": "skins",
+      "texts": 32
+    },
+    {
+      "lang": "en",
+      "name": "passport",
+      "texts": 25
+    },
+    {
+      "lang": "en",
+      "name": "settings",
+      "texts": 20
+    },
+    {
+      "lang": "en",
+      "name": "training",
+      "texts": 15
+    },
+    {
+      "lang": "en",
+      "name": "skillchoice",
+      "texts": 20
+    },
+    {
+      "lang": "en",
+      "name": "techniques",
+      "texts": 22
+    },
+    {
+      "lang": "en",
+      "name": "privacy",
+      "texts": 15
+    },
+    {
+      "lang": "en",
+      "name": "daily",
+      "texts": 15
+    },
+    {
+      "lang": "en",
+      "name": "map-0",
+      "texts": 23
+    },
+    {
+      "lang": "en",
+      "name": "passport-0",
+      "texts": 25
+    },
+    {
+      "lang": "en",
+      "name": "map-1",
+      "texts": 23
+    },
+    {
+      "lang": "en",
+      "name": "passport-1",
+      "texts": 25
+    },
+    {
+      "lang": "en",
+      "name": "map-2",
+      "texts": 23
+    },
+    {
+      "lang": "en",
+      "name": "passport-2",
+      "texts": 25
+    },
+    {
+      "lang": "en",
+      "name": "map-3",
+      "texts": 23
+    },
+    {
+      "lang": "en",
+      "name": "passport-3",
+      "texts": 25
+    },
+    {
+      "lang": "en",
+      "name": "map-4",
+      "texts": 23
+    },
+    {
+      "lang": "en",
+      "name": "passport-4",
+      "texts": 25
+    },
+    {
+      "lang": "en",
+      "name": "map-5",
+      "texts": 23
+    },
+    {
+      "lang": "en",
+      "name": "passport-5",
+      "texts": 25
+    },
+    {
+      "lang": "en",
+      "name": "skins-0",
+      "texts": 32
+    },
+    {
+      "lang": "en",
+      "name": "skins-1",
+      "texts": 33
+    },
+    {
+      "lang": "en",
+      "name": "skins-2",
+      "texts": 33
+    },
+    {
+      "lang": "en",
+      "name": "skins-3",
+      "texts": 27
+    },
+    {
+      "lang": "en",
+      "name": "final-0",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-1",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-2",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-3",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-4",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-5",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-6",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-7",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-8",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-9",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-10",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-11",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-12",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-13",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-14",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-15",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-16",
+      "texts": 18
+    },
+    {
+      "lang": "en",
+      "name": "final-17",
+      "texts": 18
+    },
+    {
+      "lang": "zh-CN",
+      "name": "home",
+      "texts": 19
+    },
+    {
+      "lang": "zh-CN",
+      "name": "map",
+      "texts": 23
+    },
+    {
+      "lang": "zh-CN",
+      "name": "stages",
+      "texts": 36
+    },
+    {
+      "lang": "zh-CN",
+      "name": "pre",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "equipment",
+      "texts": 30
+    },
+    {
+      "lang": "zh-CN",
+      "name": "skins",
+      "texts": 25
+    },
+    {
+      "lang": "zh-CN",
+      "name": "passport",
+      "texts": 25
+    },
+    {
+      "lang": "zh-CN",
+      "name": "settings",
+      "texts": 20
+    },
+    {
+      "lang": "zh-CN",
+      "name": "training",
+      "texts": 14
+    },
+    {
+      "lang": "zh-CN",
+      "name": "skillchoice",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "techniques",
+      "texts": 18
+    },
+    {
+      "lang": "zh-CN",
+      "name": "privacy",
+      "texts": 13
+    },
+    {
+      "lang": "zh-CN",
+      "name": "daily",
+      "texts": 14
+    },
+    {
+      "lang": "zh-CN",
+      "name": "map-0",
+      "texts": 23
+    },
+    {
+      "lang": "zh-CN",
+      "name": "passport-0",
+      "texts": 25
+    },
+    {
+      "lang": "zh-CN",
+      "name": "map-1",
+      "texts": 23
+    },
+    {
+      "lang": "zh-CN",
+      "name": "passport-1",
+      "texts": 25
+    },
+    {
+      "lang": "zh-CN",
+      "name": "map-2",
+      "texts": 23
+    },
+    {
+      "lang": "zh-CN",
+      "name": "passport-2",
+      "texts": 25
+    },
+    {
+      "lang": "zh-CN",
+      "name": "map-3",
+      "texts": 23
+    },
+    {
+      "lang": "zh-CN",
+      "name": "passport-3",
+      "texts": 25
+    },
+    {
+      "lang": "zh-CN",
+      "name": "map-4",
+      "texts": 23
+    },
+    {
+      "lang": "zh-CN",
+      "name": "passport-4",
+      "texts": 25
+    },
+    {
+      "lang": "zh-CN",
+      "name": "map-5",
+      "texts": 23
+    },
+    {
+      "lang": "zh-CN",
+      "name": "passport-5",
+      "texts": 25
+    },
+    {
+      "lang": "zh-CN",
+      "name": "skins-0",
+      "texts": 27
+    },
+    {
+      "lang": "zh-CN",
+      "name": "skins-1",
+      "texts": 27
+    },
+    {
+      "lang": "zh-CN",
+      "name": "skins-2",
+      "texts": 28
+    },
+    {
+      "lang": "zh-CN",
+      "name": "skins-3",
+      "texts": 25
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-0",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-1",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-2",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-3",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-4",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-5",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-6",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-7",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-8",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-9",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-10",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-11",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-12",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-13",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-14",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-15",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-16",
+      "texts": 16
+    },
+    {
+      "lang": "zh-CN",
+      "name": "final-17",
+      "texts": 16
+    },
+    {
+      "lang": "en",
+      "name": "paused-game",
+      "texts": 20
+    },
+    {
+      "lang": "zh-CN",
+      "name": "paused-game",
+      "texts": 20
+    },
+    {
+      "lang": "en",
+      "name": "feedback",
+      "texts": 14
+    },
+    {
+      "lang": "en",
+      "name": "result",
+      "texts": 11
+    },
+    {
+      "lang": "en",
+      "name": "restored-result",
+      "texts": 11
+    },
+    {
+      "lang": "en",
+      "name": "360x800",
+      "texts": 20
+    },
+    {
+      "lang": "en",
+      "name": "430x932",
+      "texts": 20
+    },
+    {
+      "lang": "en",
+      "name": "844x390",
+      "texts": 20
+    },
+    {
+      "lang": "en",
+      "name": "1440x900",
+      "texts": 20
+    }
+  ],
+  "sizes": [
+    {
+      "width": 360,
+      "height": 800
+    },
+    {
+      "width": 430,
+      "height": 932
+    },
+    {
+      "width": 844,
+      "height": 390
+    },
+    {
+      "width": 1440,
+      "height": 900
+    }
+  ],
+  "mockProgressForMenuCoverage": true
+}

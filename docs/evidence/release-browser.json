@@ -1,0 +1,115 @@
+{
+  "errors": [],
+  "cases": [
+    {
+      "kind": "offline",
+      "boot": true,
+      "languageSwitch": true,
+      "matchStarted": true,
+      "pausedAndResumed": true,
+      "audio": {
+        "decodedRecordings": [
+          {
+            "duration": 0.17,
+            "peak": 0.7945164442062378,
+            "sampleRate": 48000
+          },
+          {
+            "duration": 0.17,
+            "peak": 0.8299250602722168,
+            "sampleRate": 48000
+          },
+          {
+            "duration": 0.17,
+            "peak": 0.8047938346862793,
+            "sampleRate": 48000
+          },
+          {
+            "duration": 0.23,
+            "peak": 0.826042890548706,
+            "sampleRate": 48000
+          }
+        ],
+        "singleMusicLoop": true,
+        "musicToggle": true,
+        "blurMutedAndFocusRestored": true
+      },
+      "errors": [],
+      "remoteRequests": 0
+    },
+    {
+      "kind": "subpath",
+      "boot": true,
+      "languageSwitch": true,
+      "matchStarted": true,
+      "pausedAndResumed": true,
+      "audio": {
+        "decodedRecordings": [
+          {
+            "duration": 0.17,
+            "peak": 0.7945164442062378,
+            "sampleRate": 48000
+          },
+          {
+            "duration": 0.17,
+            "peak": 0.8299250602722168,
+            "sampleRate": 48000
+          },
+          {
+            "duration": 0.23,
+            "peak": 0.826042890548706,
+            "sampleRate": 48000
+          },
+          {
+            "duration": 0.17,
+            "peak": 0.8047938346862793,
+            "sampleRate": 48000
+          }
+        ],
+        "singleMusicLoop": true,
+        "musicToggle": true,
+        "blurMutedAndFocusRestored": true
+      },
+      "errors": [],
+      "remoteRequests": 0
+    },
+    {
+      "kind": "blocked-storage",
+      "boot": true,
+      "languageSwitch": true,
+      "matchStarted": true,
+      "pausedAndResumed": true,
+      "audio": {
+        "decodedRecordings": [
+          {
+            "duration": 0.17,
+            "peak": 0.7945164442062378,
+            "sampleRate": 48000
+          },
+          {
+            "duration": 0.23,
+            "peak": 0.826042890548706,
+            "sampleRate": 48000
+          },
+          {
+            "duration": 0.17,
+            "peak": 0.8299250602722168,
+            "sampleRate": 48000
+          },
+          {
+            "duration": 0.17,
+            "peak": 0.8047938346862793,
+            "sampleRate": 48000
+          }
+        ],
+        "singleMusicLoop": true,
+        "musicToggle": true,
+        "blurMutedAndFocusRestored": true
+      },
+      "errors": [],
+      "remoteRequests": 0
+    }
+  ],
+  "productionDevApiAbsent": true,
+  "realPhonesTested": false
+}

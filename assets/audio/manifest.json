@@ -1,0 +1,64 @@
+{
+  "license": "CC0-1.0",
+  "sources": [
+    {
+      "id": "racket",
+      "title": "Ping pong ball hit",
+      "author": "michorvath",
+      "page": "https://freesound.org/people/michorvath/sounds/269718/",
+      "download": "https://cdn.freesound.org/previews/269/269718_3094998-hq.mp3",
+      "sha256": "79adae4921a36fe28fff95af570d1f19569b35725eb91bdd0babe0087b8ae57d"
+    },
+    {
+      "id": "table",
+      "title": "Ping Pong - Ball on Table",
+      "author": "el_boss",
+      "page": "https://freesound.org/people/el_boss/sounds/628637/",
+      "download": "https://cdn.freesound.org/previews/628/628637_9129912-hq.mp3",
+      "sha256": "40a451b6e8ea413283cfe1cd39c5718a0e7f19a554d2528de0d21ebd6ffb0fa8"
+    }
+  ],
+  "processing": "HQ MP3 previews decoded to mono 44.1 kHz PCM; isolated transients trimmed with 1 ms lead-in, 85 Hz high-pass for room rumble, short edge fades and peak normalization to 0.82; exported as PCM16 WAV. No other recordings are mixed in.",
+  "clips": [
+    {
+      "file": "racket-hit.wav",
+      "source": "racket",
+      "startSeconds": 0.085896,
+      "durationSeconds": 0.23,
+      "sampleRate": 44100,
+      "channels": 1,
+      "peak": 0.82,
+      "sha256": "bf81a392c8ea435ebc57ab737181247313701c49334457ac13fa1d14bada0606"
+    },
+    {
+      "file": "table-bounce-1.wav",
+      "source": "table",
+      "startSeconds": 0.399478,
+      "durationSeconds": 0.17,
+      "sampleRate": 44100,
+      "channels": 1,
+      "peak": 0.82,
+      "sha256": "aee15c61fee99a909bf6328843e144fda7bf78c8d19ba6993fd2a565e4df0278"
+    },
+    {
+      "file": "table-bounce-2.wav",
+      "source": "table",
+      "startSeconds": 0.739819,
+      "durationSeconds": 0.17,
+      "sampleRate": 44100,
+      "channels": 1,
+      "peak": 0.82,
+      "sha256": "54cdea7d5198df3cfde16283d90abef745e9ea4544313871e98b76ccf2369966"
+    },
+    {
+      "file": "table-bounce-3.wav",
+      "source": "table",
+      "startSeconds": 1.053741,
+      "durationSeconds": 0.17,
+      "sampleRate": 44100,
+      "channels": 1,
+      "peak": 0.82,
+      "sha256": "4e2253f36c5299eb8a85501919ab0fe07dede4542344715f37c88c3762c88377"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "name": "pingpong-quest",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "start": "node scripts/start.mjs",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "validate:content": "node scripts/validate-content.mjs",
+    "build": "vite build && node scripts/build-offline.mjs",
+    "build:web": "vite build",
+    "preview": "node scripts/serve.mjs",
+    "check": "npm run typecheck && npm run test && npm run validate:content && npm run build",
+    "build:offline": "node scripts/build-offline.mjs"
+  },
+  "devDependencies": {
+    "@types/node": "24.10.1",
+    "esbuild": "0.28.1",
+    "typescript": "5.9.3",
+    "vite": "7.3.6",
+    "vitest": "4.1.11"
+  },
+  "description": "A bilingual table tennis adventure for the browser",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/13125846766/pingpong-quest.git"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}
