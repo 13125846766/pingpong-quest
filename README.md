@@ -2,6 +2,8 @@
 
 **中文** | [English](README.en.md)
 
+已部署到https://pingpong-quest.ych1231231230th.chatgpt.site/ 任何人有链接都能玩，无需安装或登录。
+
 一根手指控制球拍，挑战18座城市的球友。用长短球和变线拉开对手，抓住高球扣杀；赢下城市决赛后，学到对手的招牌球技。
 
 现在是可运行的浏览器游戏，使用TypeScript、Canvas 2D和Vite。没有账号登录、广告、支付或抖音接入。
